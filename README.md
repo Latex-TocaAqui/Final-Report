@@ -55,7 +55,7 @@ Abril 2025
   <tbody>
   <tr>
       <td><strong>TB1</strong></td>
-      <td>Lunes 07 de Abrilñ</td>
+      <td>Lunes 07 de Abril</td>
       <td>
         <ul>
           <li>Diego Ivan Cabrera Buitron</li>
