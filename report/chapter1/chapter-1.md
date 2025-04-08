@@ -2,6 +2,11 @@
 La introducción desempeña un papel fundamental en la estructuración y comprensión del proyecto, ya que establece el marco conceptual y contextual sobre el cual se desarrollará el trabajo. En esta sección inicial, se presenta una visión general que permite al lector comprender los objetivos principales que se desean alcanzar, así como los antecedentes que han llevado a la formulación del proyecto. También se delimita el alcance del mismo, es decir, hasta dónde se pretende llegar con el desarrollo de la propuesta. Asimismo, la introducción cumple la función de contextualizar la relevancia del proyecto en un entorno específico, destacando las razones que justifican su realización, los desafíos que se pretenden abordar y los beneficios esperados a partir de su implementación. En suma, esta parte inicial no solo informa, sino que también orienta y motiva al lector a profundizar en el contenido que se presentará a lo largo del documento.
 ## 1.1. Startup Profile
 
+El **startup profile** constituye un componente esencial para comprender en profundidad la esencia y dirección estratégica de dicha empresa emergente. Este perfil no solo revela su visión a futuro y los valores fundamentales que la guían, sino que también permite entender de manera clara cuál es su propuesta de valor diferenciadora en el mercado.
+
+En esta sección, se abordarán los aspectos más relevantes que conforman la identidad de la startup, tales como su historia de origen, las motivaciones detrás de su creación, el problema que busca resolver, y la manera en que su enfoque innovador le permite destacar frente a la competencia.
+
+Además, se examinarán sus metas a mediano y largo plazo, así como las estrategias que utiliza para crecer y posicionarse en el sector al que pertenece. Comprender estos elementos es clave para valorar el potencial del **startup profile** y el impacto que puede generar en su entorno.
 
 ### 1.1.1. Descripción de la Startup
 
