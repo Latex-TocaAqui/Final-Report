@@ -71,26 +71,77 @@ Fidelización y crecimiento del ecosistema: Se asume que al ofrecer una experien
 Posicionamiento como referente: Se proyecta que TocaAquí se posicione como la solución líder en la contratación de eventos musicales, capturando una cuota relevante del mercado y diferenciándose frente a procesos informales existentes.
 
   ### **User Assumptions**
-  Músicos y bandas independientes:
 
-    Se asume que buscan profesionalizar su carrera y aumentar su visibilidad, necesitando herramientas para gestionar presentaciones, coordinar logística y recibir pagos seguros.
+**Músicos y bandas independientes**:
 
-    Valoran el acceso a evaluaciones, contratos digitales y una plataforma centralizada que les permita gestionar sus oportunidades de manera autónoma.
+Se asume que buscan profesionalizar su carrera y aumentar su visibilidad, necesitando herramientas para gestionar presentaciones, coordinar logística y recibir pagos seguros.
 
-Espacios y promotores (bares, discotecas, centros culturales):
+Valoran el acceso a evaluaciones, contratos digitales y una plataforma centralizada que les permita gestionar sus oportunidades de manera autónoma.
 
-  Se asume que requieren un método seguro y eficiente para encontrar talentos musicales acordes a sus necesidades, basado en criterios como ubicación, género musical y disponibilidad.
+**Espacios y promotores (bares, discotecas, centros culturales)**:
 
-  Buscan reducir la incertidumbre en la contratación, optimizando la planificación de eventos y minimizando riesgos financieros y operativos.
+Se asume que requieren un método seguro y eficiente para encontrar talentos musicales acordes a sus necesidades, basado en criterios como ubicación, género musical y disponibilidad.
 
-Capacidad tecnológica y disposición:
+Buscan reducir la incertidumbre en la contratación, optimizando la planificación de eventos y minimizando riesgos financieros y operativos.
+
+**Capacidad tecnológica y disposición**:
 
 Se presupone que ambos segmentos tienen la capacidad técnica para utilizar una plataforma online y están dispuestos a incorporar nuevas herramientas digitales en su rutina diaria para mejorar sus procesos de contratación y organización.
-    
-  ### **User Outcomes Assumptions**
-  
-- #### 1.2.2.3. Lean UX Hypothesis Statements
 
+  ### **User Outcomes Assumptions**
+
+**Para músicos y bandas:**
+
+A través de la plataforma, se espera que aumente su visibilidad y la cantidad de oportunidades para presentarse, permitiéndoles gestionar de manera autónoma toda la logística de sus eventos.
+
+La integración de herramientas como la firma digital y el sistema de pagos en escrow contribuirá a una experiencia más segura y profesional, facilitando la toma de decisiones y la gestión de su carrera.
+
+**Para espacios y promotores:**
+
+Se prevé que la plataforma les permita encontrar y seleccionar talentos mediante filtros avanzados (por ubicación, tipo de música, disponibilidad), accediendo a portafolios y calificaciones que los ayuden a tomar decisiones informadas.
+
+La implementación de una agenda compartida y herramientas para la coordinación logística (rider técnico, horarios, etc.) generará una planificación de eventos más organizada y exitosa, reduciendo riesgos y optimizando sus recursos.
+
+**Resultados compartidos:**
+
+La transparencia y confiabilidad proporcionadas por el sistema de evaluaciones post-evento fomentarán la mejora continua y la retroalimentación, elevando la calidad del servicio ofrecido por ambas partes y fortaleciendo la reputación del ecosistema musical.
+  
+- #### 1.2.2.3. Declaraciones de hipótesis de Lean UX
+
+**Hipótesis 1: Simplificación del proceso de búsqueda**
+- **Creemos que:** Si simplificamos el proceso de búsqueda y comparación de espacios y eventos musicales en la plataforma TocaAquí,
+- **Esto logrará:** esto logrará aumentar las contrataciones al facilitar la conexión directa entre músicos emergentes y promotores de eventos.
+- **Esto lo habremos demostrado cuando:** observemos un aumento del 25% en la cantidad de contratos firmados entre músicos y promotores en los primeros seis meses.
+
+---
+
+**Hipótesis 2: Promoción automatizada para mayor visibilidad**
+- **Creemos que:** Si integramos un módulo de promoción automatizada que incluye la difusión en redes sociales,
+- **Esto logrará:** esto logrará aumentar la visibilidad de los músicos emergentes y, por fin, atraer un mayor número de solicitudes de contratación.
+- **Esto lo habremos demostrado cuando:** se observe un aumento del 35% en la cantidad de visitas a los perfiles de músicos y en las postulaciones a eventos durante el primer año.
+
+---
+
+**Hipótesis 3: Mejora en la coordinación logística**
+- **Creemos que:** Si incorporamos una herramienta de agenda compartida y validación de los requerimientos técnicos,
+- **Esto logrará:** esto logrará mejorar la organización y puntualidad en la ejecución de los eventos musicales.
+- **Lo habremos demostrado cuando:** las encuestas post-evento muestren un incremento del 20% en la satisfacción de los usuarios respecto a la coordinación logística.
+
+---
+
+**Hipótesis 4: Retroalimentación y profesionalización**
+- **Creemos que:** Si implementamos un sistema de evaluaciones y retroalimentación post-evento,
+- **Esto logrará:** esto logrará elevar la calidad del servicio y fortalecer la profesionalización dentro del ecosistema de TocaAquí.
+- **Esto lo habremos demostrado cuando:** las calificaciones promedio superen 4.0 sobre 5 y se evidencie un aumento del 30% en la recurrencia de contrataciones.
+
+---
+
+**Hipótesis 5: Seguridad en la contratación**
+- **Creemos que:** Si implementamos un sistema integrado para la firma digital de contratos y pagos seguros,
+- **Esto logrará:** esto logrará reducir significativamente los riesgos de impago y cancelaciones, generando mayor confianza entre los usuarios.
+- **Esto lo habremos demostrado cuando:** se registre una disminución del 30% en casos de impagos y cancelaciones en los eventos organizados a través de la plataforma.
+
+---
 
 - #### 1.2.2.4. Lean UX Canvas
 El Lean UX Canvas es una herramienta  que permite a los equipos plasmar y visualizar de manera concisa los aspectos clave de su proyecto. En este punto, exploraremos cómo el Canvas facilita la colaboración y la alineación del equipo al definir claramente el problema, la solución propuesta, los usuarios y sus necesidades, así como las métricas de éxito.
