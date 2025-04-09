@@ -69,7 +69,7 @@ La solución proporcionará un espacio seguro y automatizado para la contrataci�
 El Lean UX Canvas es una herramienta  que permite a los equipos plasmar y visualizar de manera concisa los aspectos clave de su proyecto. En este punto, exploraremos cómo el Canvas facilita la colaboración y la alineación del equipo al definir claramente el problema, la solución propuesta, los usuarios y sus necesidades, así como las métricas de éxito.
 <br><br>
 
-<img src="assets\leanuxcanvas.png">
+<img src="../../assets/leanuxcanvas.png">
 
 ## 1.3. Segmentos objetivo.
 Los segmentos objetivo son grupos específicos de usuarios a los que se dirige un producto o servicio en particular.  <br><br>
